@@ -38,3 +38,6 @@ authors_stat = pd.DataFrame({"author_name": name_list,
                              "min_price": max_price_list,
                              "max_price": min_price_list,
                              "mean_price": mean_list}, columns=["author_name", "min_price", "max_price", "mean_price"])
+
+
+
